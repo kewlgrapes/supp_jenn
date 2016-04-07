@@ -17,7 +17,14 @@ def G():
   """
   print "did it work?"
 
+def H():
+  """
+  alksdjasd
+  """
+  print "I think it did!"
+
 # main program
 if __name__ == "__main__":
   F()
   G()
+  H()
