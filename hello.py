@@ -11,6 +11,13 @@ def F():
   """
   print "wazzzuuuuuuuuuup?"
 
+def G():
+  """
+  Displays a new message
+  """
+  print "did it work?"
+
 # main program
 if __name__ == "__main__":
   F()
+  G()
